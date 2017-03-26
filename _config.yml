@@ -35,5 +35,9 @@ projects:
     en: Projects
     fr: Projets
 paginate: 10
-baseurl: 
-gems: [jekyll-paginate]
+baseurl:
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
