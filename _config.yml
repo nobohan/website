@@ -34,6 +34,10 @@ projects:
     nl: Projecten
     en: Projects
     fr: Projets
+calendar:
+    nl: Events
+    en: Events
+    fr: Evénements
 paginate: 10
 baseurl:
 gems:
