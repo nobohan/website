@@ -12,16 +12,13 @@ Traduction en cours.
 
 ## Introduction
 
+Dans cet article, je montrerai comment on peut ajouter des informations à propos du patrimoine immuable dans des projets collaboratifs comme [OpenStreetMap](http://www.openstreetmap.org) et certains des projets de [Wikimedia](http://www.wikimedia.org).
 
-In this article I want to show you how one can add information about immovable heritage to
-crowd sourced projects such as [OpenStreetMap](http://www.openstreetmap.org) and some of the projects of [Wikimedia](http://www.wikimedia.org).
-
-In Belgium, the list of immovable heritage is controlled by three agencies, one for Flanders, one for Brussels and one for Wallonia. In Flanders, the agency is called [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). They make a catalogue of the items and decide on the protection. They also provide some of [their data](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) as open data.
-In their catalogue they have churches, abbeys, castles, but also small farmhouses and villas, furthermore it includes  small items such as boundary stones and pillories. Occasionally, the list contains important trees on town squares.
+En Belgique, des listes des éléments du patrimoine immuable sont gérées par 3 agences, une pour la Flandre, une pour Bruxelles et une pour la Wallonie. En Flandre, l’agence est appelée [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). Ils génèrent un catalogue des éléments du patrimoine et statuent sur leur protection. Ils mettent également une partie de [leur données](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) comme données ouvertes. Dans leur catalogue, on retrouve des églises, abbayes, châteaux, mais aussi de petites fermes et bâtisses. De plus, il inclut de petits éléments tels que des bornes frontières et piloris. Occasionelllement, le catalogue contient des arbres remarquables sur des places urbaines.
 
 ![Pillory in Aartselaar](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg)
 
-*Pillory in Aartselaar*
+*Pilori à Aartselaar*
 
 What is a crowd-sourced project ? It is a project in which everybody can add data, unlike projects that are run by companies, where only employees can add data. When a company owns that data it can set the rules and price to get access to the data. In a crowd-sourced project, normally the resulting database is free to use and consult. If you want to find out more about crowdsourcing, read the [Wikipedia article](https://en.wikipedia.org/wiki/Crowdsourcing) on the topic.
 
